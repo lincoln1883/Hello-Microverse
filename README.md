@@ -5,9 +5,9 @@
   <h3><b>Hello Microverse</b></h3>
 
 </div>
+
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
 - [📖 Hello Microverse ](#-hello-microverse-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
