@@ -20,7 +20,7 @@
     - [Usage](#usage)
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
-  - [👥 Authors ](#-authors-)
+  - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -55,11 +55,17 @@ Hello Microverse is a my first project assignment, it is build using html, css a
 
 ### Key Features <a name="key-features"></a>
 
+- Added index.html file
+- Added style.css file
+- Added linters
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+
+- Coming soon
 
 <!-- GETTING STARTED -->
 
@@ -71,33 +77,53 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+```sh
+- A web browser
+- A code editor
+- A terminal
+- Git
+- Node.js
+```
+
 ### Setup
 
 Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+run `git clone https://github.com/lincoln1883/hello-microverse.git`
+```
 
 ### Install
 
 Install this project with:
 
+```sh
+  cd my-folder
+run `npm install`
+```
+
 ### Usage
 
 To run the project, execute the following command:
 
+open the index.html file in your browser using the live server extension.
+
 ### Run tests
 
-To run tests, run the following command:
+> Coming soon
 
 ### Deployment
 
-You can deploy this project using:
+> Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-👤 **Author1**
+####👤 Lincoln Gibson
 
 - GitHub: [lincoln1883](https://github.com/lincoln1883)
 - Twitter: [lincolngibson7](https://twitter.com/lincolngibson7)
@@ -108,6 +134,11 @@ You can deploy this project using:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+
+- Add more tests
+- Add more features
+- Add more styling
+- Add more functionality
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,11 +156,15 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
+- Give a ⭐️ if you like this project!
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- Thank you Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,4 +174,4 @@ Feel free to check the [issues page](../../issues/).
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
